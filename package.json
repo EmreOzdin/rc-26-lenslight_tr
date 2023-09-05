@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "engines": {
-  "node": "16.14.2" // in my case it was 14.x
+  "node": "16.14.2" 
 },
   "author": "Emre Özdin",
   "license": "ISC",
